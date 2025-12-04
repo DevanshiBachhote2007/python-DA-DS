@@ -93,11 +93,7 @@ while True:
         
         def mi():
                     # use of doc string
-            """\nThis Question finds Minimum, Maximum, Sum and Average of a Data  given by user.
-    Parameters:
-        Data(int): Take list input from user.    
-    Returns:    
-        int: Returns result of different equations."""        
+            """\nThis Question finds Minimum, Maximum, Sum and Average of a Data given by user and gives the result of different equations."""        
             
             mini = data[0]
             for x in data:
@@ -142,3 +138,4 @@ while True:
     
     else:
         print("Invalid Option choice.")
+
