@@ -1,0 +1,101 @@
+Title,Author,Genre,Price,Quantity
+The Great Gatsby,F. Scott Fitzgerald,Fiction,12.99,50
+1984,George Orwell,Dystopian,15.5,30
+To Kill a Mockingbird,Harper Lee,Classic,14.99,45
+Clean Code,Robert C. Martin,Programming,39.99,20
+Python Crash Course,Eric Matthes,Programming,29.99,29
+Pride and Prejudice,Jane Austen,Romance,9.99,60
+The Catcher in the Rye,J.D. Salinger,Fiction,11.5,25
+Sapiens,Yuval Noah Harari,Non-Fiction,18.75,40
+Atomic Habits,James Clear,Self-Help,16.99,55
+Dune,Frank Herbert,Sci-Fi,19.99,23
+The Hobbit,J.R.R. Tolkien,Fantasy,14.5,42
+Thinking Fast and Slow,Daniel Kahneman,Psychology,22.99,18
+Eloquent JavaScript,Marijn Haverbeke,Programming,31.99,15
+Head First Design Patterns,Eric Freeman,Programming,44.99,12
+The Alchemist,Paulo Coelho,Fiction,13.25,38
+Man's Search for Meaning,Viktor Frankl,Philosophy,14.75,32
+Rich Dad Poor Dad,Robert Kiyosaki,Finance,17.99,48
+The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,15.99,52
+1984,George Orwell,Dystopian,15.5,30
+Brave New World,Aldous Huxley,Sci-Fi,16.25,27
+The Road,Cormac McCarthy,Fiction,13.99,22
+Ender's Game,Orson Scott Card,Sci-Fi,12.75,35
+The Name of the Wind,Patrick Rothfuss,Fantasy,20.99,19
+Good Omens,Neil Gaiman,Fantasy,14.99,41
+Educated,Tara Westover,Memoir,17.5,29
+The Power of Habit,Charles Duhigg,Self-Help,16.75,37
+JavaScript: The Good Parts,Douglas Crockford,Programming,28.99,14
+Refactoring,Martin Fowler,Programming,42.5,10
+The Lean Startup,Eric Ries,Business,21.99,24
+Quiet,Susan Cain,Psychology,15.25,31
+The Four Agreements,Don Miguel Ruiz,Self-Help,12.99,46
+Born a Crime,Trevor Noah,Memoir,16.99,26
+Tools of Titans,Tim Ferriss,Self-Help,29.99,17
+The Intelligent Investor,Benjamin Graham,Finance,34.99,13
+Designing Data-Intensive Applications,Martin Kleppmann,Programming,49.99,8
+Domain-Driven Design,Eric Evans,Programming,47.5,9
+The Pragmatic Programmer,Andrew Hunt,Programming,38.99,16
+Working Effectively with Legacy Code,Michael Feathers,Programming,41.99,11
+Release It!,Michael Nygard,Programming,36.99,12
+Building Microservices,Sam Newman,Programming,39.5,10
+Site Reliability Engineering,Betsy Beyer,Programming,0.0,0
+Accelerate,Nicole Forsgren,Programming,24.99,20
+Database Internals,Alex Petrov,Programming,43.99,7
+Designing Distributed Systems,Brendan Burns,Programming,33.99,14
+Grokking Algorithms,Aditya Bhargava,Programming,27.99,23
+Hands-On Machine Learning,Aurélien Géron,Programming,49.99,6
+Deep Learning,Ian Goodfellow,Programming,59.99,5
+Artificial Intelligence: A Modern Approach,Stuart Russell,Programming,89.99,4
+Fluent Python,Luciano Ramalho,Programming,45.99,9
+Effective Java,Joshua Bloch,Programming,41.5,11
+Clean Architecture,Robert C. Martin,Programming,37.99,13
+Domain Modeling Made Functional,Scott Wlaschin,Programming,34.99,15
+Functional Programming in Scala,Paul Chiusano,Programming,42.99,8
+Real-World Functional Programming,Tomas Petricek,Programming,38.5,10
+Python for Data Analysis,Wes McKinney,Programming,39.99,12
+Hands-On Data Analysis with Pandas,Stefanie Molin,Programming,44.99,7
+R for Data Science,Hadley Wickham,Programming,35.99,14
+Storytelling with Data,Cole Nussbaumer Knaflic,Data Science,28.99,18
+Data Science for Business,Foster Provost,Data Science,36.5,11
+Practical Statistics for Data Scientists,Peter Bruce,Data Science,32.99,16
+Introduction to Statistical Learning,Gareth James,Data Science,49.99,9
+Pattern Recognition and Machine Learning,Christopher Bishop,Data Science,69.99,5
+The Elements of Statistical Learning,Trevor Hastie,Data Science,0.0,0
+Bayesian Data Analysis,Andrew Gelman,Data Science,59.5,6
+Think Stats,Allen B. Downey,Data Science,24.99,21
+Practical Time Series Analysis,Aileen Nielsen,Data Science,31.99,17
+Forecasting: Principles and Practice,Rob Hyndman,Data Science,0.0,0
+Time Series Analysis and Its Applications,Robert H. Shumway,Data Science,69.99,4
+Deep Learning with Python,François Chollet,Data Science,54.99,8
+Machine Learning Yearning,Andrew Ng,Data Science,0.0,0
+Hands-On Machine Learning with Scikit-Learn and TensorFlow,Aurélien Géron,Data Science,49.99,7
+Introduction to Machine Learning with Python,Andreas C. Müller,Data Science,39.99,10
+Python Machine Learning,Sebastian Raschka,Data Science,44.99,9
+Data Science from Scratch,Joel Grus,Data Science,29.99,15
+Mining of Massive Datasets,Jure Leskovec,Data Science,59.99,5
+Big Data: Principles and best practices of scalable real-time data systems,Nathan Marz,Data Science,0.0,0
+Designing Data-Intensive Applications,Martin Kleppmann,Data Science,49.99,8
+Building Data Streaming Applications with Apache Kafka,Manish Kumar,Data Science,39.99,12
+Learning Spark,Holden Karau,Data Science,45.99,7
+Spark: The Definitive Guide,Bill Chambers,Data Science,54.99,6
+Kafka: The Definitive Guide,Neha Narkhede,Data Science,49.99,8
+Data Engineering with Python,Paul Crickard,Data Science,34.99,14
+Fundamentals of Data Engineering,Joe Reis,Data Science,44.99,9
+Cloud Data Management,Divyakant Agrawal,Data Science,59.99,5
+Data Lakes for Dummies,Alan R. Simon,Data Science,0.0,0
+Streaming Systems,Tyler Akidau,Data Science,49.99,7
+Designing Event-Driven Systems,Ben Stopford,Data Science,39.99,11
+Data Virtualization for Business Intelligence Systems,Rick van der Lans,Data Science,54.99,6
+Data Wrangling with Python,Jacqueline Kazil,Data Science,29.99,13
+Data Cleaning,Irene Y. Chen,Data Science,24.99,19
+Data Visualization with Python,Kyran Dale,Data Science,34.99,15
+Interactive Data Visualization for the Web,Scott Murray,Data Science,39.99,10
+Storytelling with Data,Cole Nussbaumer Knaflic,Data Science,28.99,18
+Data Points,Nathan Yau,Data Science,32.99,2
+Information Dashboard Design,Stephen Few,Data Science,44.99,9
+Visualizing Data,Ben Fry,Data Science,29.99,12
+Data Visualization: A Practical Introduction,Kieran Healy,Data Science,39.99,11
+Fundamentals of Data Visualization,Claus O. Wilke,Data Science,34.99,13
+Data Science for Dummies,Lillian Pierson,Data Science,0.0,0
+Python Data Science Handbook,Jake VanderPlas,Data Science,49.99,8
